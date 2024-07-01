@@ -22,3 +22,10 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     </p>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a Web Developer, currently exploring MERN Project .
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📝 &nbsp; Checkout my [portfolio]([https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing](https://my-portfolio-m.web.app/))
