@@ -26,6 +26,6 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Web Developer, currently exploring MERN Project .
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Devmdmainuddin)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📝 &nbsp; Checkout my [portfolio]([https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing](https://my-portfolio-m.web.app/))
+- 📝 &nbsp; Checkout my [portfolio](https://my-portfolio-m.web.app/)
