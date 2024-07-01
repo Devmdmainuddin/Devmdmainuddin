@@ -27,5 +27,6 @@
 
 - :computer: I'm a Web Developer, currently exploring MERN Project .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Devmdmainuddin)
+- 💻 I love writing code and learn anythings about it
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📝 &nbsp; Checkout my [portfolio](https://my-portfolio-m.web.app/)
